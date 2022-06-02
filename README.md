@@ -29,9 +29,9 @@ Color quantization consists of two main steps:
 To Apply the Single-linkage Clustering algorithm on the Image Quantization Problem, we need to
 1.	Find the distinct colors D = {d1, d2, d3 ….dm} from the input image. Can be known from the image histogram.
 2.	Construct a fully-connected undirected weighted graph G with
-** D vertices (number of distinct colors). 
-** Each pair of vertices is connected by a single edge. 
-** Edge weight is set as the Euclidean Distance between the RGB values of the 2 vertices.
+>D vertices (number of distinct colors). 
+> Each pair of vertices is connected by a single edge. 
+> Edge weight is set as the Euclidean Distance between the RGB values of the 2 vertices.
 
 <p><img src="https://github.com/mo-musaad/Image-Quantization-/blob/main/Readpic/Capture4.PNG" alt="Run image"></p>
 

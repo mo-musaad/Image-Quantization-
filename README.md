@@ -44,3 +44,6 @@ To Apply the Single-linkage Clustering algorithm on the Image Quantization Probl
 <p><img src="https://github.com/mo-musaad/Image-Quantization-/blob/main/Readpic/Capture5.PNG" alt="Run image"></p>
 
 
+# Author
+
+ * [Mohamed musaad](https://www.linkedin.com/in/mohamed-musaad-aamer-a2a633202/)
